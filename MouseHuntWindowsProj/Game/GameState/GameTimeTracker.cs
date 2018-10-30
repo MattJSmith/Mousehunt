@@ -3,11 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Xna.Framework;
 using MonoGame.Framework;
-using MonoGame.Framework.Content;
-using MonoGame.Framework.Graphics;
-using MonoGame.Framework.Input;
-using MonoGame.Framework.Storage;
 
 namespace MouseHunt
 {

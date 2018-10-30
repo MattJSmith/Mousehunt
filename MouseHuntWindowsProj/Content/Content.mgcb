@@ -139,16 +139,6 @@
 /processorParam:TextureFormat=Color
 /build:../UnbuiltContent/Enemy/HootlingSwoop.png;UnbuiltContent/Enemy/HootlingSwoop.png
 
-#begin ../UnbuiltContent/HootVideo.avi
-/importer:
-/processor:
-/build:../UnbuiltContent/HootVideo.avi;UnbuiltContent/HootVideo.avi
-
-#begin ../UnbuiltContent/HootVideo.avi
-/importer:
-/processor:
-/build:../UnbuiltContent/HootVideo.avi;UnbuiltContent/HootVideo.avi
-
 #begin ../UnbuiltContent/MouseHit.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor

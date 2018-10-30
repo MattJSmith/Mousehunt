@@ -1,12 +1,10 @@
 ﻿#region Using Statements
 using System;
 using System.Collections.Generic;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
 using MonoGame.Framework;
-using MonoGame.Framework.Content;
-using MonoGame.Framework.Graphics;
-using MonoGame.Framework.Input;
-using MonoGame.Framework.Storage;
-using MonoGame.Framework.Media;
 #endregion
 
 namespace MouseHunt
