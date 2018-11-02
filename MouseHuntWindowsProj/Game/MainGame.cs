@@ -20,7 +20,7 @@ namespace MouseHunt
         private SpriteBatch spriteBatch;
         private gameInput input;
         private Player player;
-        private FlockOfHootlings enemys;
+        private EnemyGenerator enemys;
         private Background background;
 
 
@@ -50,7 +50,7 @@ namespace MouseHunt
             input = new gameInput();
             player = new Player(Content, soundManager);
             background = new Background(Content);
-            enemys = new FlockOfHootlings(Content, soundManager);
+            enemys = new EnemyGenerator(Content, soundManager);
         
             // TODO: use this.Content to load your game content here
         }

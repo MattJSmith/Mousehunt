@@ -59,10 +59,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ContentLocations.cs" />
+    <Compile Include="Game\Enemy\EnemyGenerator\EnemyGenerator.cs" />
+    <Compile Include="Game\Enemy\IEnemy.cs" />
+    <Compile Include="Game\Enemy\Sssnake\Sssnake.cs" />
     <Compile Include="Game\GameState\Timer.cs" />
     <Compile Include="Game\GameState\GameTimeTracker.cs" />
     <Compile Include="Game\Enemy\Directions.cs" />
-    <Compile Include="Game\Enemy\EnemyGenerator\FlockOfHootlings.cs" />
     <Compile Include="Game\Enemy\Hootling\HootlingLogic.cs" />
     <Compile Include="Game\Enemy\StartBoundries\Bot.cs" />
     <Compile Include="Game\Enemy\StartBoundries\Direction.cs" />

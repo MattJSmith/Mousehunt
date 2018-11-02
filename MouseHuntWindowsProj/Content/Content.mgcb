@@ -139,6 +139,18 @@
 /processorParam:TextureFormat=Color
 /build:../UnbuiltContent/Enemy/HootlingSwoop.png;UnbuiltContent/Enemy/HootlingSwoop.png
 
+#begin ../UnbuiltContent/Enemy/Snake.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../UnbuiltContent/Enemy/Snake.png;UnbuiltContent/Enemy/Snake.png
+
 #begin ../UnbuiltContent/MouseHit.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor

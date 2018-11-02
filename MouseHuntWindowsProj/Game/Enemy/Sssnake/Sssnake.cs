@@ -11,7 +11,7 @@ using MouseHuntWindowsProj.Game.Enemy;
 namespace MouseHunt
 {
 
-    public class Hootling : IEnemy
+    public class Sssnake : IEnemy
     {
         private SoundManager _soundManager;
 
@@ -29,12 +29,12 @@ namespace MouseHunt
 
         public bool HasDied { get; private set; }
 
-        public Hootling(ContentManager content, SoundManager soundManager)
+        public Sssnake(ContentManager content, SoundManager soundManager)
         {
             startBoundry = logic.getRandomBoundryStarts();
 
-            var enemyWarningImage = content.Load<Texture2D>(ContentLocations.Enemy+ "HootlingStart");
-            enemyImage = content.Load<Texture2D>(ContentLocations.Enemy + "HootlingSwoop");
+            var enemyWarningImage = content.Load<Texture2D>(ContentLocations.Enemy+ "Snake");
+            enemyImage = content.Load<Texture2D>(ContentLocations.Enemy + "Snake");
 
             position = startBoundry.GetStartPosition();
             var startRotation = startBoundry.GetStartRotation();
