@@ -8,9 +8,10 @@ namespace MouseHunt
 {
     public static class ContentLocations
     {
-        public static readonly string BackGround = "UnbuiltContent/Background/";
-        public static readonly string BackGroundEyes = "UnbuiltContent/Background/Eye/";
-        public static readonly string Enemy = "UnbuiltContent/Enemy/";
-        public static readonly string Player = "UnbuiltContent/Player/";
+        public static readonly string TopFolder = "";//"../ContentFolder/";
+        public static readonly string BackGround = $"{TopFolder}Background/";
+        public static readonly string BackGroundEyes = $"{TopFolder}Background/Eye/";
+        public static readonly string Enemy = $"{TopFolder}Enemy/";
+        public static readonly string Player = $"{TopFolder}Player/";
     }
 }
