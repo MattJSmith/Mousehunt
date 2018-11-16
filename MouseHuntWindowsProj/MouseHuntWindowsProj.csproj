@@ -73,6 +73,7 @@
     <Compile Include="Game\Enemy\StartBoundries\Top.cs" />
     <Compile Include="Game\Enemy\StartBoundry.cs" />
     <Compile Include="Game\GameState\GlobalProperties.cs" />
+    <Compile Include="Game\HUD.cs" />
     <Compile Include="Objects\CollisionSprite.cs" />
     <Compile Include="Game\Other\SoundManager.cs" />
     <Compile Include="Tools\DebugTools.cs" />
@@ -97,7 +98,6 @@
   <ItemGroup>
     <Content Include="Icon.ico" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <MonoGameContentReference Include="Content\Content.mgcb" />
   </ItemGroup>

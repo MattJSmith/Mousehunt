@@ -13,7 +13,9 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin ../UnbuiltContent/Background/background1.png
+
+
+#begin Background/background1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -23,9 +25,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Background/background1.png;UnbuiltContent/Background/background1.png
+/build:Background/background1.png
 
-#begin ../UnbuiltContent/Background/background2.png
+#begin Background/background2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -35,9 +37,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Background/background2.png;UnbuiltContent/Background/background2.png
+/build:Background/background2.png
 
-#begin ../UnbuiltContent/Background/background3.png
+#begin Background/background3.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -47,9 +49,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Background/background3.png;UnbuiltContent/Background/background3.png
+/build:Background/background3.png
 
-#begin ../UnbuiltContent/Background/background4.png
+#begin Background/background4.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -59,9 +61,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Background/background4.png;UnbuiltContent/Background/background4.png
+/build:Background/background4.png
 
-#begin ../UnbuiltContent/Background/Eye/AllSeeingEye.png
+#begin Background/Eye/AllSeeingEye.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -71,9 +73,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Background/Eye/AllSeeingEye.png;UnbuiltContent/Background/Eye/AllSeeingEye.png
+/build:Background/Eye/AllSeeingEye.png
 
-#begin ../UnbuiltContent/Background/Eye/EyeClosed.png
+#begin Background/Eye/EyeClosed.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -83,9 +85,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Background/Eye/EyeClosed.png;UnbuiltContent/Background/Eye/EyeClosed.png
+/build:Background/Eye/EyeClosed.png
 
-#begin ../UnbuiltContent/Background/Eye/EyePupil.png
+#begin Background/Eye/EyePupil.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -95,9 +97,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Background/Eye/EyePupil.png;UnbuiltContent/Background/Eye/EyePupil.png
+/build:Background/Eye/EyePupil.png
 
-#begin ../UnbuiltContent/Background/Eye/OpenEye.png
+#begin Background/Eye/OpenEye.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -107,15 +109,15 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Background/Eye/OpenEye.png;UnbuiltContent/Background/Eye/OpenEye.png
+/build:Background/Eye/OpenEye.png
 
-#begin ../UnbuiltContent/Enemy/Hoot.wav
+#begin Enemy/Hoot.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../UnbuiltContent/Enemy/Hoot.wav;UnbuiltContent/Enemy/Hoot.wav
+/build:Enemy/Hoot.wav
 
-#begin ../UnbuiltContent/Enemy/HootlingStart.png
+#begin Enemy/HootlingStart.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -125,9 +127,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Enemy/HootlingStart.png;UnbuiltContent/Enemy/HootlingStart.png
+/build:Enemy/HootlingStart.png
 
-#begin ../UnbuiltContent/Enemy/HootlingSwoop.png
+#begin Enemy/HootlingSwoop.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -137,9 +139,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Enemy/HootlingSwoop.png;UnbuiltContent/Enemy/HootlingSwoop.png
+/build:Enemy/HootlingSwoop.png
 
-#begin ../UnbuiltContent/Enemy/Snake.png
+#begin Enemy/Snake.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -149,15 +151,15 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Enemy/Snake.png;UnbuiltContent/Enemy/Snake.png
+/build:Enemy/Snake.png
 
-#begin ../UnbuiltContent/MouseHit.wav
+#begin MouseHit.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../UnbuiltContent/MouseHit.wav;UnbuiltContent/MouseHit.wav
+/build:MouseHit.wav
 
-#begin ../UnbuiltContent/Player/Mouse.png
+#begin Player/Mouse.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -167,9 +169,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Player/Mouse.png;UnbuiltContent/Player/Mouse.png
+/build:Player/Mouse.png
 
-#begin ../UnbuiltContent/Player/Mouse2.png
+#begin Player/Mouse2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -179,15 +181,15 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Player/Mouse2.png;UnbuiltContent/Player/Mouse2.png
+/build:Player/Mouse2.png
 
-#begin ../UnbuiltContent/Player/MouseHit.wav
+#begin Player/MouseHit.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../UnbuiltContent/Player/MouseHit.wav;UnbuiltContent/Player/MouseHit.wav
+/build:Player/MouseHit.wav
 
-#begin ../UnbuiltContent/Player/TiledMouse.png
+#begin Player/TiledMouse.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -197,5 +199,5 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../UnbuiltContent/Player/TiledMouse.png;UnbuiltContent/Player/TiledMouse.png
+/build:Player/TiledMouse.png
 
